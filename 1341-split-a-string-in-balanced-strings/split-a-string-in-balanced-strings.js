@@ -16,7 +16,6 @@ var balancedStringSplit = function(s) {
 		if (balance === 0) {
 			matches += 1;
 		}
-    console.log(matches)
 	}
 
 	return matches
