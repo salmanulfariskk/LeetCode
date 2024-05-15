@@ -17,6 +17,4 @@ var findLUSlength = function(a, b) {
         return lengthB
     }
 
-    
-
 };
